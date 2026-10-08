@@ -3,3 +3,9 @@ Date: 08-Oct-2026
 Description: Added a requirement to allow customers to save their preferred payment method for future transactions.
 Affected section: 3.5 Payment
 Version: SRS v1.1
+
+Change #2
+Date: 08-Oct-2026
+Description: Updated the performance requirement to support at least 100 customers accessing the store simultaneously.
+Affected section: 5. Performance Requirements
+Version: SRS v1.2
