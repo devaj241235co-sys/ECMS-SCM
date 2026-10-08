@@ -9,3 +9,9 @@ Date: 08-Oct-2026
 Description: Updated the performance requirement to support at least 100 customers accessing the store simultaneously.
 Affected section: 5. Performance Requirements
 Version: SRS v1.2
+
+Variant B
+Date: 08-Oct-2026
+Description: Added social sharing of products as an alternative system feature.
+Affected section: 2.1 Product Functions
+Version: SRS v2.0-B
